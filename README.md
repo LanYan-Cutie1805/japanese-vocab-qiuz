@@ -8,7 +8,8 @@ Run the python file (.py) -- As simple as that --
 **BUILT NOTES**
 - v0.1 - BETA tester
 - v1.2 - Commercial app deployed
-/Fixes:
+
+Fixes:
 1. **Database update:** Now using Marionette V2.
 2. **Simplified categories:** Vocab categories have been reduced.
 3. **Hide Hiragana:** Added a button to show or hide hiragana readings.
